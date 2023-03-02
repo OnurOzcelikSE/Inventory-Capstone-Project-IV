@@ -1,5 +1,5 @@
 # Inventory-Capstone-Project-IV
-This code is written in Python for the first capstone project in the HyperionDev Software Engineer Bootcamp.
+This code is written in Python for the fourth capstone project in the HyperionDev Software Engineering Bootcamp.
 
 **Description**
 
